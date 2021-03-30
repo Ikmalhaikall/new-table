@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+<head>
+	<title>PHP REST API MySQL AJAX jQuery CRUD</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<script src="main.js"></script>
+	
+	<style>
+		.btnmod{
+			position: absolute;
+  			right: 0px;
+ 			width: 300px;
+  			padding: 10px;
+  			float:right;
+
+
+		.row{
+			position: center;
+		}
+		h4{
+			text-align: center;
+
+		}
+		
+		ul {
+			width:100%;
+			padding-top: 100px;
+			border-style: groove;
+			border-top:0px;
+			border-left:0px;
+			border-right:0px;
+ 			list-style-type: none;
+  			margin: 0;
+  			padding: 0;
+  			overflow: hidden;
+  			background-color: #FFFFFF;
+ 			position:fixed;
+			}
+
+		li {
+  			float: left;
+			
+		}
+
+
+		.input-group {
+			margin: 100px 50px 75px 20px;
+		}
+		.input-group label {
+			display: block;
+			text-align: left;
+			margin:px;
+		}
+		.input-group input {
+			height: 30px;
+			width: 300px;
+			padding: 5px 10px;
+			font-size: 16px;
+			border-radius: 5px;
+			border: 1px solid gray;
+		}
+		.btn {
+			padding: 10px;
+			font-size: 15px;
+			color: white;
+			background: #5F9EA0;
+			border: none;
+			border-radius: 5px;
+		}
+	</style>
+	
+</head>
+<body>
+
+
+ <div class="navbar-fixed">
+    <nav>
+      <div class="nav-wrapper white">
+        <img src="logo_hometutor.png" style="width: 180px; padding: 15px 0px 0px 25px;">&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#!" class="brand-logo black-text"><h5><b>Create an Activation Code Prefix</b></h5></a>
+        <ul class="right hide-on-med-and-down">
+        	<!-- Modal Trigger -->
+          <li> <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Add New</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal modal-fixed-footer">
+    <div class="modal-body">
+      <div class="kepala">
+      	<h4>Company Info</h4>
+      </div><br>
+      
+ 	<div class="container">
+  	<div class="row">
+    <div class="col s12">
+      <div class="row">
+        <div class="input-field col s10">
+          <i class="material-icons prefix">store</i>
+          <input type="text" id="name" name="name" value="" id="autocomplete-input" class="autocomplete">
+          <label for="autocomplete-input">Company Name</label>
+        </div>
+      </div>
+    </div>
+
+     <div class="col s12">
+      <div class="row">
+        <div class="input-field col s10">
+          <i class="material-icons prefix">bubble_chart</i>
+          <input type="text" id="referral_code" name="referral_code" value="" id="autocomplete-input" class="autocomplete">
+          <label for="autocomplete-input">Referral Code</label>
+        </div>
+      </div>
+    </div>
+
+     <div class="col s12">
+      <div class="row">
+        <div class="input-field col s10">
+          <i class="material-icons prefix">code</i>
+          <input type="text" id="prefix" name="prefix" value="" id="autocomplete-input" class="autocomplete">
+          <label for="autocomplete-input">Prefix code</label>
+        </div>
+      </div>
+    </div>
+</div>
+
+  </div>
+
+           
+
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat" id="addNew">Add New</a>
+      <a href="#!" class="modal-close waves-effect waves-red btn-flat">Cancel</a>
+    </div>
+  </div>
+
+
+<!--------modal2->
+  <!-- Modal Structure -->
+  <div id="modal2" class="modal modal2 modal-fixed-footer">
+    <div class="modal-body">
+      	<h4>Edit Company Info</h4>
+      </div><br>
+
+      <div class="container">
+  		<table class="tbodymodal2">
+              
+        </table>
+
+  </div>
+      
+ 
+
+         
+    <div class="modal-footer">
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat" id="save">Save</a>
+      <a href="#!" class="modal-close waves-effect waves-red btn-flat">Cancel</a>
+    </div>
+  </div>
+<!------>
+
+
+	<p/>
+
+<div class="box2 col s12">
+     <table class="highlight" >
+       <thead>
+         <tr>
+           <td class="grey-text text-darken-5" style="width: 0px;"><b>Name</b></td>
+           <td class="grey-text text-darken-5" style="width: 0px;"><b>Referral Code</b></td>
+           <td class="grey-text text-darken-5" style="width: 0px;"><b>Prefix</b></td>
+           <td class="grey-text text-darken-5" style="width: 0px;"><b>Actions</b></td>
+ 
+         </tr>
+       </thead>
+  </table>
+</div>
+
+
+
+</body>
+</html>
+
+ 

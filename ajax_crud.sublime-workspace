@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ref",
+				"referral_code"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"D",
+				"document"
+			],
+			[
+				"rea",
+				"ready"
+			],
+			[
+				"Up",
+				"update"
+			],
+			[
+				"del",
+				"delegate"
+			],
+			[
+				"referr",
+				"referral_code"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"Id",
+				"id"
+			],
+			[
+				"edit-hover",
+				"edit-hover1"
+			],
+			[
+				"data",
+				"data-target"
+			],
+			[
+				"refe",
+				"referral_code"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"border-botto",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-width\tproperty"
+			],
+			[
+				"border-le",
+				"border-left-width\tproperty"
+			],
+			[
+				"padi",
+				"padding-right\tproperty"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"gms",
+				"gms_referral_management"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"pr",
+				"prefix"
+			],
+			[
+				"m",
+				"myString"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"border",
+				"border-right-width\tproperty"
+			],
+			[
+				"border-right",
+				"border-right-style\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/newtable4/ajax_crud.html",
+		"/C/Users/USER/Downloads/test-X0004 copy 2/main.js",
+		"/C/Users/USER/Downloads/modal materialize/PHP Ajax Update/fetch.php",
+		"/C/Users/USER/Downloads/test-X0004 copy 2/fetch_single.php",
+		"/C/Users/USER/Downloads/test-X0004 copy 2/fetch.php",
+		"/C/xampp/htdocs/table/db.php",
+		"/C/xampp/htdocs/table/create.php",
+		"/C/xampp/htdocs/table/read.php",
+		"/C/xampp/htdocs/table/update.php",
+		"/C/xampp/htdocs/table/delete.php",
+		"/C/xampp/htdocs/newtable/db.php",
+		"/C/xampp/htdocs/newtable/delete.php",
+		"/C/Users/USER/Downloads/modal materialize/PHP Ajax Update/index.php",
+		"/C/xampp/htdocs/modal/testing.php",
+		"/C/Users/USER/Downloads/modal materialize/PHP Ajax Update/insert.php",
+		"/C/Users/USER/Downloads/modal materialize/PHP Ajax Update/select.php",
+		"/C/xampp/htdocs/newtable/ajax_crud.html",
+		"/C/Users/USER/Downloads/test-X0004 copy 2/conn.php",
+		"/C/Users/USER/Downloads/test-X0004 copy 2/update2.php",
+		"/C/xampp/htdocs/modal/ff",
+		"/C/xampp/htdocs/table/ajax_crud.html",
+		"/C/xampp/htdocs/table crud/update.php",
+		"/C/Users/USER/Documents/db.php",
+		"/C/xampp/htdocs/table crud/read.php",
+		"/C/xampp/htdocs/table crud/delete.php",
+		"/C/xampp/htdocs/table crud/db.php",
+		"/C/xampp/htdocs/table crud/create.php",
+		"/C/xampp/htdocs/table crud/ajax_crud.html",
+		"/C/xampp/htdocs/table-listing/03-01-selecting-id-class/index.html",
+		"/C/xampp/htdocs/table-listing/03-01-selecting-id-class/js/script.js",
+		"/C/Users/USER/Documents/Intern/ht-user-list/create.php",
+		"/C/Users/USER/Documents/Intern/ht-user-list/index.html",
+		"/C/Users/USER/Documents/Intern/ht-user-list/delete.php",
+		"/C/Users/USER/Documents/Intern/ht-user-list/pagination.php",
+		"/C/Users/USER/Documents/Intern/ht-user-list/read.php",
+		"/C/xampp/htdocs/table-listing/02-01-including-jquery/index.html",
+		"/C/xampp/htdocs/table-listing/02-01-including-jquery/js/jquery-1.11.0.min.js",
+		"/C/xampp/htdocs/js-learning/script.js",
+		"/C/xampp/htdocs/Sidebar/sidenew.html",
+		"/C/xampp/htdocs/Sidebar/sb.css",
+		"/C/Users/USER/Documents/Intern/ht-user-list/db.php",
+		"/C/Users/USER/Documents/Intern/ht-user-list/readphp.php",
+		"/C/Users/USER/Documents/Intern/ht-user-list/updatephp.php",
+		"/C/xampp/htdocs/02-01-including-jquery/js/jquery-1.11.0.min.js",
+		"/C/xampp/htdocs/02-01-including-jquery/index.html",
+		"/C/xampp/htdocs/js-learning/index.html",
+		"/C/xampp/htdocs/js-learning/js",
+		"/C/xampp/htdocs/Sidebar/sidebar.css",
+		"/C/xampp/htdocs/SideBar2/styles.css",
+		"/C/xampp/htdocs/SideBar2/Side.html",
+		"/C/xampp/htdocs/SideBar/Sidebar.html",
+		"/C/xampp/htdocs/SideBar/Style.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"//javascript document\nvar myOutput = document.getElementById('output');\n\n///working with variable\nvar myString = 'Hello2';\n\n\nmyOutput.innerHtml=myString + myString;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ajax_crud.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
